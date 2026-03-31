@@ -10,7 +10,7 @@ public class JamDriver_2511531006 {
 		System.out.println("ab       =" + a.plus(b));
 		System.out.println("next 20s =" + Jam_2511531006.durasiDetik(a,b));
 		System.out.println("a.compareTo(b) =" + a.compareTo(b));
-		// TODO Auto-generated method stub
+		
 
 	}
 
