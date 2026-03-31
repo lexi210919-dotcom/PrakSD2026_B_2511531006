@@ -57,14 +57,13 @@ public final class Jam_2511531006 {
     //override toString
     public String toString() { return String.format("%02d:%02d:%02d", hh, mm, ss);}
 
-	public void nextSeconds(int i) {
-		// TODO Auto-generated method stub
+	
 		
 	}
 
 	
 
-	}
+	
 
 
 
